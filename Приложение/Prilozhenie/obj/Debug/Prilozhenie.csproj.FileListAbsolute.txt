@@ -1,0 +1,206 @@
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.AssemblyReference.cache
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.SuggestedBindingRedirects.cache
+F:\КП C#\Prilozhenie\obj\Debug\MainWindow.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\App.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.cache
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.lref
+F:\КП C#\Prilozhenie\bin\Debug\Prilozhenie.exe.config
+F:\КП C#\Prilozhenie\bin\Debug\Prilozhenie.exe
+F:\КП C#\Prilozhenie\bin\Debug\Prilozhenie.pdb
+F:\КП C#\Prilozhenie\obj\Debug\MainWindow.baml
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.g.resources
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.Properties.Resources.resources
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.GenerateResource.cache
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.CoreCompileInputs.cache
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.exe
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.pdb
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie_Content.g.cs
+F:\КП C#\Prilozhenie\bin\Debug\EntityFramework.dll
+F:\КП C#\Prilozhenie\bin\Debug\EntityFramework.SqlServer.dll
+F:\КП C#\Prilozhenie\bin\Debug\EntityFramework.xml
+F:\КП C#\Prilozhenie\bin\Debug\EntityFramework.SqlServer.xml
+F:\КП C#\Prilozhenie\bin\Debug\ru\EntityFramework.resources.dll
+F:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.CopyComplete
+F:\КП C#\Prilozhenie\obj\Debug\Window1.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Window1.baml
+D:\КП C#\Prilozhenie\bin\Debug\Prilozhenie.exe.config
+D:\КП C#\Prilozhenie\bin\Debug\Prilozhenie.exe
+D:\КП C#\Prilozhenie\bin\Debug\Prilozhenie.pdb
+D:\КП C#\Prilozhenie\bin\Debug\EntityFramework.dll
+D:\КП C#\Prilozhenie\bin\Debug\EntityFramework.SqlServer.dll
+D:\КП C#\Prilozhenie\bin\Debug\EntityFramework.xml
+D:\КП C#\Prilozhenie\bin\Debug\EntityFramework.SqlServer.xml
+D:\КП C#\Prilozhenie\bin\Debug\ru\EntityFramework.resources.dll
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.AssemblyReference.cache
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.SuggestedBindingRedirects.cache
+D:\КП C#\Prilozhenie\obj\Debug\MainWindow.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Window1.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\App.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie_Content.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.cache
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.lref
+D:\КП C#\Prilozhenie\obj\Debug\MainWindow.baml
+D:\КП C#\Prilozhenie\obj\Debug\Window1.baml
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.g.resources
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.Properties.Resources.resources
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.GenerateResource.cache
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.CoreCompileInputs.cache
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.csproj.CopyComplete
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.exe
+D:\КП C#\Prilozhenie\obj\Debug\Prilozhenie.pdb
+D:\КП C#\Prilozhenie\obj\Debug\Dobavlenie.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Dobavlenie.baml
+F:\КП C#\Prilozhenie\obj\Debug\Dobavlenie.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Dobavlenie.baml
+D:\КП C#\Prilozhenie\obj\Debug\Window2.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Window2.baml
+D:\КП C#\Prilozhenie\obj\Debug\Dobavlenie2.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Window3.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Dobavlenie2.baml
+D:\КП C#\Prilozhenie\obj\Debug\Window3.baml
+D:\КП C#\Prilozhenie\obj\Debug\Window4.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Window4.baml
+D:\КП C#\Prilozhenie\obj\Debug\Dobavlenie3.g.cs
+D:\КП C#\Prilozhenie\obj\Debug\Dobavlenie3.baml
+F:\КП C#\Prilozhenie\obj\Debug\Dobavlenie2.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Dobavlenie3.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Window2.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Window3.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Window4.g.cs
+F:\КП C#\Prilozhenie\obj\Debug\Dobavlenie2.baml
+F:\КП C#\Prilozhenie\obj\Debug\Dobavlenie3.baml
+F:\КП C#\Prilozhenie\obj\Debug\Window2.baml
+F:\КП C#\Prilozhenie\obj\Debug\Window3.baml
+F:\КП C#\Prilozhenie\obj\Debug\Window4.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.csproj.AssemblyReference.cache
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.csproj.SuggestedBindingRedirects.cache
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\MainWindow.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\App.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie_Content.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.cache
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.lref
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.exe
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.pdb
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\Prilozhenie.exe.config
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\Prilozhenie.exe
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\Prilozhenie.pdb
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\EntityFramework.dll
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\EntityFramework.SqlServer.dll
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\EntityFramework.xml
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\EntityFramework.SqlServer.xml
+D:\КП C#\Рабочая папка\Prilozhenie\bin\Debug\ru\EntityFramework.resources.dll
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\MainWindow.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.g.resources
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.Properties.Resources.resources
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.csproj.GenerateResource.cache
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.csproj.CoreCompileInputs.cache
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.csproj.CopyComplete
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Prilozhenie.csproj.ResolveComReference.cache
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewAdd\Add1.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewAdd\Add2.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewAdd\Add3.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie2.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie3.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window1.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window2.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window3.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window4.g.cs
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewAdd\Add1.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewAdd\Add2.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewAdd\Add3.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie2.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie3.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window1.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window2.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window3.baml
+D:\КП C#\Рабочая папка\Prilozhenie\obj\Debug\Windows\Window4.baml
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\Prilozhenie.exe.config
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\Prilozhenie.exe
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\Prilozhenie.pdb
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.dll
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.SqlServer.dll
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.xml
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.SqlServer.xml
+D:\КП C#\Приложение\Prilozhenie\bin\Debug\ru\EntityFramework.resources.dll
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.AssemblyReference.cache
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.SuggestedBindingRedirects.cache
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.ResolveComReference.cache
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add1.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add2.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add3.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie2.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie3.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\MainWindow.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window1.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window2.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window3.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window4.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\App.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie_Content.g.cs
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.cache
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.lref
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add1.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add2.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add3.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie2.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie3.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\MainWindow.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window1.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window2.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window3.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window4.baml
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.g.resources
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.Properties.Resources.resources
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.GenerateResource.cache
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.CoreCompileInputs.cache
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.CopyComplete
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.exe
+D:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.pdb
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\Prilozhenie.exe.config
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\Prilozhenie.exe
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\Prilozhenie.pdb
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.dll
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.SqlServer.dll
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.xml
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\EntityFramework.SqlServer.xml
+F:\КП C#\Приложение\Prilozhenie\bin\Debug\ru\EntityFramework.resources.dll
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.AssemblyReference.cache
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.SuggestedBindingRedirects.cache
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.ResolveComReference.cache
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add1.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add2.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add3.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie2.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie3.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\MainWindow.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window1.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window2.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window3.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window4.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\App.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie_Content.g.cs
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.cache
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie_MarkupCompile.lref
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add1.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add2.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewAdd\Add3.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie2.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\ViewEdit\Dobavlenie3.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\MainWindow.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window1.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window2.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window3.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Windows\Window4.baml
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.g.resources
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.Properties.Resources.resources
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.GenerateResource.cache
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.CoreCompileInputs.cache
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.csproj.CopyComplete
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.exe
+F:\КП C#\Приложение\Prilozhenie\obj\Debug\Prilozhenie.pdb
